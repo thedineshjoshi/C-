@@ -6,7 +6,7 @@
     <RootNamespace>C_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Area</StartupObject>
+    <StartupObject>Counter</StartupObject>
   </PropertyGroup>
 
 </Project>
